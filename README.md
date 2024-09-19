@@ -2,9 +2,7 @@
 
 Inverse Kinematics of Stewart Platform (Hexapod)
 
-Input:  
-        
-        
+Input:        
         desired_position (mm)   = [ X; Y; Z] 3x1 matrix        
         desired_orientation (deg)  = [rotX; rotY; totZ] 3x1 matrix
 
