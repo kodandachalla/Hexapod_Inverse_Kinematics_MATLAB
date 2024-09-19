@@ -1,4 +1,4 @@
-# Hexapod_Inverse_Kinematics
+# Hexapod Inverse Kinematics
 
 Inverse Kinematics of Stewart Platform (Hexapod)
 
