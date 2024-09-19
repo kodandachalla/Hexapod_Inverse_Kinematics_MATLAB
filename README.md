@@ -49,7 +49,11 @@ Code:
         
         % Display the Stewart platform
         [R, P_global, top_centre] = displayStewartPlatform(desired_position, desired_orientation, B, P);
-        Functions
+
+        
+Functions:
+
+
         function leg_lengths = inverseKinematics(desired_position, desired_orientation, B, P)
             % Convert orientation to rotation matrix
             R = Eul2rotm(desired_orientation);
